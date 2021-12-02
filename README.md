@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi dear 👋, I'm Lucas Valadares</h1>
+<h1 align="center">hi there 👋, I'm Lucas Valadares</h1>
 <h3 align="center">Passionate about the computing world, currently focused on programming, I'm improving my knowledge of JavaScript with NodeJs, ReactJS, ReactNative, Redux ...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldevLucasl" alt="Lucas" /> </p>
 
